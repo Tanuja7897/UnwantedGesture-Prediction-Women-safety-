@@ -39,5 +39,5 @@ Tools:
 argparse: For command-line argument parsing to enable flexible execution of the software.
 Pre-trained Models: The system uses pre-trained models for face detection to reduce development time and increase accuracy.
 and Here is Sample result-
-![Alt text](https://github.com/Tanuja7897/IILM_HACK_UTSAV_TRAILBLAZER/blob/main/result.jpg)
+![Alt text](https://github.com/Tanuja7897/UnwantedGesture-Prediction-Women-safety-/blob/main/result.jpg)
 
