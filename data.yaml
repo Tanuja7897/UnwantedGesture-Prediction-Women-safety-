@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['men', 'person', 'women']
+
+roboflow:
+  workspace: manhvi-yadav
+  project: gender-detection-mxyv3
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/manhvi-yadav/gender-detection-mxyv3/dataset/1
