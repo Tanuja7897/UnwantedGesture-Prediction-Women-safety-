@@ -17,9 +17,12 @@ Recognizing SOS Situations through Gesture and Emotion Analytics: Analyze gestur
 Identifying Hotspots: Determine locations where incidents are more likely to occur based on past alerts.
 Advantages:
 
-Real-time Monitoring and Alerts: Helps create a safer environment for women by providing real-time monitoring and alerts.
-Early Detection: Enables law enforcement to intervene before situations escalate.
-Continuous Analysis: Provides valuable data to identify hotspots and trends, aiding in strategic planning for city safety.
+Real-time Monitoring and Alerts: 
+Helps create a safer environment for women by providing real-time monitoring and alerts.
+Early Detection:
+Enables law enforcement to intervene before situations escalate.
+Continuous Analysis: 
+Provides valuable data to identify hotspots and trends, aiding in strategic planning for city safety.
 Expected Solution
 Women Safety Analytics should include the following functionalities:
 
