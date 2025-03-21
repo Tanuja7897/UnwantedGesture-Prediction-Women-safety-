@@ -4,7 +4,7 @@ from tensorflow.keras.preprocessing.image import img_to_array
 from tensorflow.keras.models import load_model
 
 # Load the gesture prediction model
-model_path = 'C:\\Users\\FLEX\\SIH\\gesture_immotion\\harassment_detection_model.h5'  
+model_path = 'C:\\harassment_detection_model.h5'  
 gesture_model = load_model(model_path)
 
 def preprocess_for_gesture(face_roi):
